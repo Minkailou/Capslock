@@ -12,9 +12,12 @@
 
 <input id="input" value="Some text..">
 <p id="warning">⚠️ Caps Lock is activated...</p>
- 
- <script type="text/javascript" src="main.js"></script>
 
+<p id="attention">⚠️ Num lock is activated...</p>
+ 
+
+
+<script type="text/javascript" src="main.js"></script>
  </body>
 
  </body>
